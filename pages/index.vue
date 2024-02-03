@@ -56,7 +56,7 @@
       <!-- Timeline -->
       <section class="mt-12">
         <h2 class="heading">Tech Stack</h2>
-        <p class="flex gap-2">
+        <p class="flex flex-wrap gap-2">
           <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
           <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
           <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
