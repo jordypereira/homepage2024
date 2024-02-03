@@ -43,36 +43,29 @@
         </ol>
       </section>
 
-      <!-- Timeline -->
-      <section class="mt-12">
-        <h2 class="heading">Timeline Tech Stack</h2>
-        <a href="/timeline" class="text-red-600">See Timeline</a>
-      </section>
-
       <section class="mt-12">
         <h2 class="heading">Projects</h2>
-        <div class="flex justify-between flex-wrap">
-          <a class="mt-4" href="https://github.com/online-photobooth/online-photobooth">
-            <img
-              src="https://github-readme-stats.vercel.app/api/pin/?username=online-photobooth&repo=online-photobooth&title_color=dc2626"
-              alt="project">
-          </a>
-          <a class="mt-4" href="https://github.com/online-photobooth/Server">
-            <img
-              src="https://github-readme-stats.vercel.app/api/pin/?username=online-photobooth&repo=Server&title_color=dc2626&show_owner=true"
-              alt="project">
-          </a>
-          <a class="mt-4" href="https://github.com/jordypereira/kowloon">
-            <img
-              src="https://github-readme-stats.vercel.app/api/pin/?username=jordypereira&repo=kowloon&title_color=dc2626"
-              alt="project">
-          </a>
-          <a class="mt-4" href="https://github.com/jordypereira/catvent">
-            <img
-              src="https://github-readme-stats.vercel.app/api/pin/?username=jordypereira&repo=catvent&title_color=dc2626"
-              alt="project">
-          </a>
-        </div>
+        <ul>
+          <li><Dot />Currently leading a team of 5 developers to create a seamless E-commerce experience.
+          <li><Dot />Experience leading projects with over 20 stakeholders, migrating large parts of a codebase and system.</li>
+          <li><Dot />Helped transition a monolith Magento 2 Ecommerce website to be fully composable, with a modern Nuxt 3 frontend, serverless functions, headless CMS, Commerce API, Payment, Merchandising, ...</li>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Timeline -->
+      <section class="mt-12">
+        <h2 class="heading">Tech Stack</h2>
+        <p class="flex gap-2">
+          <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
+          <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
+          <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+          <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+          <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?style=for-the-badge"/>
+          <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"/>
+        </p>
+        <!-- <a href="/timeline" class="text-red-600">See Timeline</a> -->
       </section>
     </main>
   </body>
