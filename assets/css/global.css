@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: #dc2626;
+}
+
+::selection {
+  color: white;
+  background: #dc2626;
+}
+
+.title {
+  @apply text-5xl mb-4 font-nerd;
+}
+
+.heading {
+  @apply text-2xl mb-1 font-nerd;
+}
+
+article h2 {
+  @apply text-3xl mb-1 font-nerd;
+}
+
+article h3 {
+  @apply text-2xl mb-1 mt-4 font-nerd;
+}
+
+article p img {
+  @apply inline mt-1;
+}
+
+article a {
+  @apply text-red-600;
+}
