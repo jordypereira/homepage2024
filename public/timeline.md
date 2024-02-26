@@ -96,7 +96,6 @@ _My final year as a student, doing the big projects_
   <img alt="Google Photos" src="https://img.shields.io/badge/-Google%20Photos-4285F4?logo=Google-Photos&logoColor=white&style=for-the-badge"/>
 </p>
 
-
 - [Online Photobooth React](https://github.com/online-photobooth/online-photobooth) - 4 Apr 2019
 - [Online Photobooth Nodejs](https://github.com/online-photobooth/Server) - 4 Apr 2019
 - [Donate a kitty](https://github.com/jordypereira/manon/tree/master/22) - 16 Mar 2019
@@ -131,12 +130,11 @@ _Creating websites for clients as a Student-Entrepreneur, discovering the power 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge"/>
 </p>
 
-
 - [Kowloon](https://github.com/jordypereira/kowloon) - 13 Dec 2018
-- [Arcon Console](https://github.com/Arcon-web/arcon-platform) - 8 Dec 2018  
-- [Voting App](https://github.com/Wunderhack-boys/voting-app) - 7 Dec 2018  
-- [KDG Photobooth](https://github.com/KdG-Photobooth/Server) - 5 Dec 2018 
-- [Catvent](https://github.com/jordypereira/catvent) - 2 Dec 2018 
+- [Arcon Console](https://github.com/Arcon-web/arcon-platform) - 8 Dec 2018
+- [Voting App](https://github.com/Wunderhack-boys/voting-app) - 7 Dec 2018
+- [KDG Photobooth](https://github.com/KdG-Photobooth/Server) - 5 Dec 2018
+- [Catvent](https://github.com/jordypereira/catvent) - 2 Dec 2018
 - [LAMPvsDocker] - 8 Nov 2018
 - [Wiki](https://github.com/jordypereira/wiki) - 6 Nov 2018
 - [tdd_learning] - 15 Oct 2018
@@ -173,8 +171,8 @@ _Webmaster for the studentclub_
 
 ### 2016
 
-_Student discovering multiple technologies_  
-_photography, 3D modeling, game dev, design, animation, video, photoshop_ 
+_Student discovering multiple technologies_
+_photography, 3D modeling, game dev, design, animation, video, photoshop_
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
@@ -226,5 +224,5 @@ _photography, 3D modeling, game dev, design, animation, video, photoshop_
 [boekenUc]: https://github.com/jordypereira/boeken-uc
 
 [portfolioKDG]: https://github.com/jordypereira/portfolioKDG
-[hscbrabo]: https://www.notion.so/perjor/HSC-Brabo-frontend-dc457cd859ed47cdafabb33dec2f55de 
+[hscbrabo]: https://www.notion.so/perjor/HSC-Brabo-frontend-dc457cd859ed47cdafabb33dec2f55de
 [hscbrabo_db]: https://www.notion.so/perjor/HSC-Brabo-backend-b0f3c6c314ca4543b76a37c55e9d304a

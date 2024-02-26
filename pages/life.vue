@@ -1,3 +1,7 @@
+<script lang="ts" setup>
+
+</script>
+
 <template>
   <div>
     <h2>Priorities</h2>
@@ -14,10 +18,6 @@
     </ol>
   </div>
 </template>
-
-<script lang="ts" setup>
-
-</script>
 
 <style scoped>
 

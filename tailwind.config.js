@@ -4,10 +4,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'nerd': ['Rajdhani']
-      }
+        nerd: ['Rajdhani'],
+      },
     },
   },
   plugins: [],
 }
-
