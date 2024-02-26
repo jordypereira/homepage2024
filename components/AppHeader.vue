@@ -4,6 +4,7 @@
     <header class="md:mt-32">
       <div class="flex flex-col md:flex-row justify-center items-center p-8">
         <div class="flex flex-col items-center">
+          <AppNavbar />
           <h1 class="title flex flex-col">
             <span>Jordy</span> <span class="ml-16">Pereira</span>
           </h1>
