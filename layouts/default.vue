@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div class="flex-col flex w-screenmin-h-screen">
+  <div class="flex-col flex w-screen min-h-screen">
     <div class="w-full">
       <AppHeader />
     </div>

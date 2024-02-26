@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <body class="min-h-screen pb-12 bg-white">
+  <div class="min-h-screen pb-12 bg-white">
     <main class="md:max-w-4xl mx-6 md:mx-auto md:px-6">
       <section>
         <h2 class="heading">
@@ -80,7 +80,7 @@
         <!-- <a href="/timeline" class="text-red-600">See Timeline</a> -->
       </section>
     </main>
-  </body>
+  </div>
 </template>
 
 <style scoped></style>
