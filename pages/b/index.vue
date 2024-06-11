@@ -1,6 +1,8 @@
 <template>
   <main class="flex flex-col justify-center items-center">
-    <ContentRenderer :value="intro" class="prose lg:prose-xl" />
+    <ContentRenderer v-if="intro":value="intro" class="prose lg:prose-xl">
+      <ContentRendererMarkdown :value="intro" />
+    </ContentRenderer>
     <pre class="">
       <div class="w-[400px] h-[300px] p-4">
         <h2>ISR + Hybrid Rendering on Vercel</h2>
