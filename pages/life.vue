@@ -1,6 +1,4 @@
-<script lang="ts" setup>
-
-</script>
+<script lang="ts" setup></script>
 
 <template>
   <article class="md:max-w-4xl mx-6 md:mx-auto md:px-6">
@@ -13,11 +11,15 @@
           <li>Intentional use of devices.</li>
         </ol>
         <div>
-          <img src="/images/macedon_apple4.jpg" alt="Alexander the great eating an apple" class="w-64 h-64" />
+          <img
+            src="/images/macedon_apple4.jpg"
+            alt="Alexander the great eating an apple"
+            class="w-64 h-64"
+          />
         </div>
       </div>
     </div>
-    <br>
+    <br />
     <h2>Current Obsessions</h2>
     <ol>
       <li>Cycling</li>
@@ -28,6 +30,4 @@
   </article>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>

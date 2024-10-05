@@ -1,6 +1,7 @@
 ## Timeline
 
 ### 2023
+
 _Lead Developer making sure all parts and people of the E-Commerce platform flow nicely together_
 
 <p>
@@ -12,6 +13,7 @@ _Lead Developer making sure all parts and people of the E-Commerce platform flow
 - [Serverless Setup](https://perjor.notion.site/What-is-Project-Serverlessify-415ed674ae5f4fa899dc6560e2242b89?pvs=4) - Feb 2023 - Upgrade the frontend framework to Nuxt 3 and setting up Serverless infrastructure, caching (upstash), hosting (vercel), CDNs (fastly), and data management with BigQuery.
 
 ### 2022
+
 _Leading projects and writing API integrations_
 
 <p>
@@ -30,6 +32,7 @@ _Leading projects and writing API integrations_
 - [Emarsys CRM Foundation](https://perjor.notion.site/Emarsys-CRM-Data-Foundation-fda3f426c1de4c0caf1a560e2728e850) - Feb 2022 - Set up all the data flows from the website to our CRM.
 
 ### 2021
+
 _Writing clear code and communicating with my team and future-self_
 
 <p>
@@ -49,6 +52,7 @@ _Writing clear code and communicating with my team and future-self_
 - [Support App](https://www.notion.so/perjor/B-da-Support-c8c40021898148cdad2e79cbfe83d926) - March 2021
 
 ### 2020
+
 _Started at my first company_
 
 <p>
@@ -210,19 +214,16 @@ _photography, 3D modeling, game dev, design, animation, video, photoshop_
 [LAMPvsDocker]: https://github.com/jordypereira/lampvsdocker
 [tdd_learning]: https://github.com/jordypereira/learn_testing
 [graphql_learning]: https://github.com/jordypereira/graphql_learning_process
-
 [VueGallery]: https://github.com/jordypereira/VueGallery
 [ArenbergVue]: https://github.com/jordypereira/Arenberg-Vue
 [manon21]: https://github.com/jordypereira/Cogitandus
 [giftly]: https://github.com/jordypereira/giftly
 [NiceGuysWebsite]: https://github.com/jordypereira/NiceGuysWebsite
 [Yahtzee]: https://github.com/jordypereira/yahtzee
-
 [teamdiva]: https://github.com/jordypereira/teamdiva
 [transfusia]: https://github.com/jordypereira/transfusia
 [Reddut]: https://github.com/jordypereira/Reddut
 [boekenUc]: https://github.com/jordypereira/boeken-uc
-
 [portfolioKDG]: https://github.com/jordypereira/portfolioKDG
 [hscbrabo]: https://www.notion.so/perjor/HSC-Brabo-frontend-dc457cd859ed47cdafabb33dec2f55de
 [hscbrabo_db]: https://www.notion.so/perjor/HSC-Brabo-backend-b0f3c6c314ca4543b76a37c55e9d304a
