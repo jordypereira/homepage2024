@@ -13,17 +13,12 @@
           >Belgium</span>, with
           roots in <span class="text-red-500">Portugal</span> and <span class="text-blue-500">Greece</span>.
         </p>
-        <p>I want to grow and keep learning as a developer.</p>
+        <p>Tech, nature, sports, reflections & everything in moderation.</p>
         <br>
         <div class="flex flex-col items-center">
           <img
             src="https://github-readme-stats.vercel.app/api?username=jordypereira&count_private=true&title_color=dc2626&icon_color=dc2626"
             alt="Github Contributions"
-          >
-          <br>
-          <img
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=jordypereira&title_color=dc2626"
-            alt="Weekly stats"
           >
         </div>
       </section>
