@@ -3,4 +3,5 @@ export default defineNuxtConfig({
   modules: ['radix-vue/nuxt', '@nuxtjs/tailwindcss', '@nuxt/image'],
   devtools: { enabled: true },
   css: ['~/assets/css/global.css'],
+  compatibilityDate: '2024-10-05',
 })
