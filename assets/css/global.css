@@ -56,7 +56,7 @@ article blockquote {
 }
 
 article pre {
-  @apply bg-gray-800 p-2 rounded-lg overflow-x-auto;
+  @apply bg-gray-800 p-2 rounded-lg overflow-x-auto text-white;
 }
 
 article code {
