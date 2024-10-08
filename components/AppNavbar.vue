@@ -2,6 +2,7 @@
 const items = [
   { title: 'Home', to: '/' },
   { title: 'Life', to: '/life' },
+  { title: 'Culture', to: '/culture' },
   // { title: 'Work', to: '/work' },
 ]
 </script>

@@ -4,4 +4,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/global.css'],
   compatibilityDate: '2024-10-05',
+  nitro: {
+    prerender: {
+      routes: ['/culture'],
+    },
+  },
 })
