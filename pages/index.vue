@@ -43,7 +43,7 @@
         <h2 class="heading">Projects</h2>
         <ul>
           <li>
-            <Dot />Currently leading a team of 5 developers to create a seamless E-commerce
+            <Dot />Currently leading a team of developers to create a seamless E-commerce
             experience.
           </li>
           <li>
