@@ -18,7 +18,7 @@ _Leading projects and writing API integrations_
 
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?style=for-the-badge"/>
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?logo=zod&style=for-the-badge"/>
   <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"/>
 </p>
 
