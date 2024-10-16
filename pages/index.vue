@@ -15,7 +15,8 @@
         <div class="flex flex-col items-center">
           <img
             src="https://github-readme-stats.vercel.app/api?username=jordypereira&count_private=true&title_color=dc2626&icon_color=dc2626"
-            alt="Github Contributions" />
+            alt="Github Contributions"
+          />
         </div>
       </section>
 
@@ -61,19 +62,34 @@
       <section class="mt-12">
         <h2 class="heading">Tech Stack</h2>
         <p class="flex flex-wrap gap-2">
-          <img alt="Nuxt"
-            src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-          <img alt="TypeScript"
-            src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
-          <img alt="Vercel"
-            src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-          <img alt="Amazon_AWS"
-            src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-          <img alt="Redis"
-            src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-          <img alt="Zod" src="https://img.shields.io/badge/-Zod-%233068B7?logo=zod&style=for-the-badge" />
-          <img alt="Bun"
-            src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+          <img
+            alt="Nuxt"
+            src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"
+          />
+          <img
+            alt="TypeScript"
+            src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"
+          />
+          <img
+            alt="Vercel"
+            src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+          />
+          <img
+            alt="Amazon_AWS"
+            src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+          />
+          <img
+            alt="Redis"
+            src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+          />
+          <img
+            alt="Zod"
+            src="https://img.shields.io/badge/-Zod-%233068B7?logo=zod&style=for-the-badge"
+          />
+          <img
+            alt="Bun"
+            src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"
+          />
         </p>
         <!-- <a href="/timeline" class="text-red-600">See Timeline</a> -->
       </section>
