@@ -23,12 +23,23 @@
   :root {
     --color-red-400: #fca5a5;
     --color-red-600: #f87171;
+    --color-red-700: #f87171;
     --color-red-800: #fca5a5;
   }
 
   body {
     background-color: #111827;
     color: #e5e7eb;
+  }
+
+  /* Home's content sits in a white wrapper; let the page show through */
+  .bg-white {
+    background-color: transparent;
+  }
+
+  /* Remote images (the tech badges, the stats card) are made for light pages; the outline keeps the black ones visible */
+  main img[src^="https://"] {
+    outline: 1px solid #4b5563;
   }
 }
 
