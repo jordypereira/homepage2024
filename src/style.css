@@ -14,6 +14,24 @@
   --color-gray-800: #1f2937;
 }
 
+/* Dark mode follows the system setting. The reds are lifted so links keep their contrast on the dark page, and hover goes lighter, not darker. */
+:root {
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-red-400: #fca5a5;
+    --color-red-600: #f87171;
+    --color-red-800: #fca5a5;
+  }
+
+  body {
+    background-color: #111827;
+    color: #e5e7eb;
+  }
+}
+
 /* The active nav link, which Nuxt's router-link-active used to mark */
 nav a[aria-current="page"] {
   @apply underline text-red-600;
