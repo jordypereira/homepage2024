@@ -34,6 +34,7 @@ Articles and resources worth reading on agentic engineering. One line per source
 
 ## Long-running agents and review
 
+- 2026-10-20 · [Long-running Agents](https://addyosmani.com/blog/long-running-agents) · Addy Osmani · The shared pattern: a plan file, a progress file, a done-condition written first and a separate evaluator.
 - 2026-10-16 · [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) · Anthropic · Keeping an agent on track across long-running work.
 - 2026-10-16 · [Scaling Managed Agents](https://www.anthropic.com/engineering/managed-agents) · Anthropic · Running hosted agents at scale, the headless route.
 - 2026-10-16 · [Code Review for Claude Code](https://claude.com/blog/code-review) · Anthropic · A model reviewing every pull request, with its numbers.
@@ -42,3 +43,9 @@ Articles and resources worth reading on agentic engineering. One line per source
 ## Tooling for agents
 
 - 2026-10-16 · [ViteConf 2026 livestream](https://www.youtube.com/watch?v=PfyIEgLzNYI) · Evan You · "Developer Tooling in the Agentic Era", from 0:03:30, about 25 min: the Vite Plus direction.
+
+## Tracking an effort against its target
+
+- 2026-10-20 · [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://www.martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) · Birgitta Böckeler · What spec tools leave open when a spec changes after work exists.
+- 2026-10-20 · [Burndown and burnup charts](https://docs.gitlab.com/user/project/milestones/burndown_and_burnup_charts/) · GitLab · How a scope line tells a moved target apart from finished work.
+- 2026-10-20 · [llm-wikid](https://github.com/shannhk/llm-wikid) · shannhk · An agent-kept wiki that grades each page by how many sources agree and lists its data gaps.
