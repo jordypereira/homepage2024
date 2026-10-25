@@ -2,7 +2,7 @@
 
 jordypereira.be: plain HTML pages built by Vite+ (`index.html`, `life.html`), styled with Tailwind 4, deployed by Netlify.
 
-The defaults are agent-config `shared/reference/repo-defaults.md`; below is only where this repo differs.
+The defaults are the owner's shared repo defaults (`repo-defaults.md`); below is only where this repo differs.
 
 - Edits to `reading.md` are pushed straight to `main`. The build renders it into `/reading` and fails on a line outside its format or one that names something private: the repo and site are public.
 - Adding a line to `reading.md`:
