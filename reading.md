@@ -49,3 +49,11 @@ Articles and resources worth reading on agentic engineering. One line per source
 - 2026-10-20 · [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://www.martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) · Birgitta Böckeler · What spec tools leave open when a spec changes after work exists.
 - 2026-10-20 · [Burndown and burnup charts](https://docs.gitlab.com/user/project/milestones/burndown_and_burnup_charts/) · GitLab · How a scope line tells a moved target apart from finished work.
 - 2026-10-20 · [llm-wikid](https://github.com/shannhk/llm-wikid) · shannhk · An agent-kept wiki that grades each page by how many sources agree and lists its data gaps.
+
+## Evals: turning failures into checks
+
+- 2026-11-17 · [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · Anthropic · Start with 20 to 50 cases from real failures; code graders first, judges checked against people; capability against regression suites.
+- 2026-11-17 · [evals-skills](https://github.com/hamelsmu/evals-skills) · Hamel Husain · Agent skills for error analysis, writing one-question judges and checking a judge against your own labels (TPR and TNR).
+- 2026-11-17 · [Plugin evals](https://code.claude.com/docs/en/plugin-evals) · Anthropic · Claude Code's own runner for skill and plugin evals: cases as files, free and judged graders, a with-and-without baseline, a spend cap.
+- 2026-11-17 · [Many SWE-bench-passing PRs would not be merged into main](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/) · METR · Passing tests against a maintainer's merge decision: about half of passing agent PRs would be rejected.
+- 2026-11-17 · [Does AI code review lead to code changes?](https://arxiv.org/abs/2508.18771) · Sun et al. · Grading a review bot by whether code changed after its comment, across 22,000 comments.
