@@ -52,6 +52,7 @@ Articles and resources worth reading on agentic engineering. One line per source
 
 ## Evals: turning failures into checks
 
+- 2026-11-17 · [Trusting agents before running them in parallel](https://www.youtube.com/watch?v=I_oMJk6barY) · Lauren Tan, Cursor · Verification skills that drive the real app, skills grown from observed failures, evals as unit tests for a skill, and review comments turned into lints. Livestream reupload, about 45 min.
 - 2026-11-17 · [pstack](https://github.com/cursor/plugins/tree/main/pstack) · Lauren Tan, Cursor · Skills for a verification skill per app (drive the real app, a feature map) and for turning a repeated correction into structure before prose.
 - 2026-11-17 · [Cut The Noise: Building a Code Reviewer You Can Trust](https://www.youtube.com/watch?v=f6OVURAlYXI) · Joah Gerstenberg, Block · A reviewer measured offline on past expert reviews, then online by findings acted on and later fixes; precision first.
 - 2026-11-17 · [State of Software Factories // Slop Bench](https://www.youtube.com/watch?v=ix1qQK1IvmA) · Dex Horthy, HumanLayer · Why tests and evals cannot see maintainability, and Slop Code Bench. About 10 min.
