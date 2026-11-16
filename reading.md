@@ -52,6 +52,9 @@ Articles and resources worth reading on agentic engineering. One line per source
 
 ## Evals: turning failures into checks
 
+- 2026-11-17 · [pstack](https://github.com/cursor/plugins/tree/main/pstack) · Lauren Tan, Cursor · Skills for a verification skill per app (drive the real app, a feature map) and for turning a repeated correction into structure before prose.
+- 2026-11-17 · [Cut The Noise: Building a Code Reviewer You Can Trust](https://www.youtube.com/watch?v=f6OVURAlYXI) · Joah Gerstenberg, Block · A reviewer measured offline on past expert reviews, then online by findings acted on and later fixes; precision first.
+- 2026-11-17 · [State of Software Factories // Slop Bench](https://www.youtube.com/watch?v=ix1qQK1IvmA) · Dex Horthy, HumanLayer · Why tests and evals cannot see maintainability, and Slop Code Bench. About 10 min.
 - 2026-11-17 · [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · Anthropic · Start with 20 to 50 cases from real failures; code graders first, judges checked against people; capability against regression suites.
 - 2026-11-17 · [evals-skills](https://github.com/hamelsmu/evals-skills) · Hamel Husain · Agent skills for error analysis, writing one-question judges and checking a judge against your own labels (TPR and TNR).
 - 2026-11-17 · [Plugin evals](https://code.claude.com/docs/en/plugin-evals) · Anthropic · Claude Code's own runner for skill and plugin evals: cases as files, free and judged graders, a with-and-without baseline, a spend cap.
